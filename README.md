@@ -1,1 +1,1 @@
-# Algorithm groom강의 정리노트
+# Algorithm groom 강의 정리노트
