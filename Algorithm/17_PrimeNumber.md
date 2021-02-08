@@ -11,7 +11,7 @@
 1. 2부터 특정 숫자의 배수에 해당하는 숫자들을 모두 지움(자기 자신은 지우지 않음)  
 ![에라토스2](https://user-images.githubusercontent.com/31130917/107220319-8caf5f80-6a55-11eb-8116-2cef871f8ebe.PNG)  
 3의 배수 지움  
-![에라토스3](https://user-images.githubusercontent.com/31130917/107220320-8caf5f80-6a55-11eb-8f90-9fa29db54e93.PNG) 
+![에라토스3](https://user-images.githubusercontent.com/31130917/107220320-8caf5f80-6a55-11eb-8f90-9fa29db54e93.PNG)  
 <출처 : https://blog.naver.com/ndb796/221233595886>  
   
 2. 이미 지워진 숫자의 경우 건너뜀  
