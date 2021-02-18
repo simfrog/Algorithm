@@ -20,8 +20,11 @@ void floydWarshall() {
         }
     }
 
+    // k = 거쳐가는 노드
     for(int k = 0; k < number; k++) {
+        // i = 출발 노드
         for(int i = 0; i < number; i++) {
+            // j = 도착 노드
             for(int j = 0; j < number; j++) {
                 if(d[i][k] + d[k][j] < d[i][j]) {
                     d[i][j] = d[i][k] + d[k][j];
